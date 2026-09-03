@@ -51,18 +51,3 @@ About 3 hours.
 ## Next Improvement
 
 Add an end-to-end browser test for the full filter, select, update, refresh flow.
-
-## GitHub Submission Steps
-
-Run these from `C:\Users\gabri\Desktop\Frontend_Engineer_Challenge_Work`:
-
-```bash
-git init
-git add .
-git commit -m "Build responsive incident desk"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/incident-desk.git
-git push -u origin main
-```
-
-Then create the repository on GitHub first if it does not already exist, replacing `YOUR_USERNAME` with your GitHub username.
